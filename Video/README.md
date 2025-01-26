@@ -15,3 +15,4 @@
 - **Reflection**:  
   This project was a significant milestone in my creative journey. It allowed me to explore advanced video editing and motion graphics techniques, helping me develop a deeper understanding of storytelling through multimedia.
 
+![Promotional Video Screenshot](thumbnail.png)
